@@ -1,3 +1,3 @@
 # Vincent's Projects
 
-A collection of small python projects that I've written.
+A collection of small Python projects that I've written.
